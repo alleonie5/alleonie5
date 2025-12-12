@@ -1,6 +1,6 @@
-<h2 align="center"> Bonjour 👋 </h2>
+<h2 align="center"> 👋 Léonie Frassint </h2>
 
-Je suis Léonie, j'ai 21 ans et je suis étudiante en deuxième année de DEUST Webmaster et Métiers de l'Internet (WMI) à l'Université du Littoral de Calais.
+<h3 align="center">Je suis Léonie, j'ai 21 ans et je suis étudiante en deuxième année de DEUST Webmaster et Métiers de l'Internet (WMI) à l'Université du Littoral de Calais. </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A9onie-frassint-104a75338/)
 
@@ -10,6 +10,12 @@ Je suis en alternance à DKPARK, un centre de sports et de loisirs situé à Dun
 
 
 # *Mon parcours :* 
+
+[📝 Voir mon CV](https://raw.githubusercontent.com/alleonie5/alleonie5/main/CV_LeonieFrassint.png)
+
+
+
+
 
 <h2 align="center"> 2024-2026 </h2>
 
