@@ -14,10 +14,9 @@ Je suis en alternance à DKPARK, un centre de sports et de loisirs situé à Dun
 [📝 Voir mon CV](https://raw.githubusercontent.com/alleonie5/alleonie5/main/CV_LeonieFrassint.png)
 
 
-
-
-
 <h2 align="center"> 2024-2026 </h2>
+
+
 
 Je suis actuellement en deuxième année du DEUST WMI et depuis le début de cette formation j'ai acquéris différentes compétences : 
 - Graphisme : Photoshop, Illustrator, After Effect
